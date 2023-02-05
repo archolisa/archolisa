@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @archolisa
-- 👀 I’m interested in coding and cloud computing architecture.
-- 🌱 I’m currently learning full-stack development
+- 👀 I’m a fullstack web developer and a cloud solutions architect.
+- 🌱 I’m currently learning React.js and Express.js
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: akaolisajohn@yahoo.com
 
